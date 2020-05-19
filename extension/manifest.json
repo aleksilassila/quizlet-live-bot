@@ -1,0 +1,17 @@
+{
+    "name": "Quizlet live bot",
+    "version": "1.0",
+    "description": "Quizlet live bot to answer automatically",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["*://quizlet.com/live"],
+            "js": ["inject.js"]
+        }
+    ],
+    "web_accessible_resources": ["script.js"],
+    "icons": { "128": "128.png" },
+    "browser_action": {
+        "default_icon": "128.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"name": "quizlet-live-bot",
+	"version": "1.0.0",
+	"description": "Quizlet live bot to answer automatically",
+	"author": "Aleksi Lassila",
+	"license": "ISC"
+}
