@@ -1,6 +1,6 @@
 # Bot for quizlet live
 
-A quick script I wrote turned into a Chrome extension. You're finally able to have a good time in your swedish class :)
+A quick script I wrote turned into a Chrome extension. Probably full of bugs. You're finally able to have a good time in your swedish class :)
 
 ## Installation
 
